@@ -5,5 +5,5 @@
 - 👯 I’m looking to collaborate on Flask & FastAPI
 - 🤔 I’m looking for help with Flask & FastAPI
 - 💬 Ask me about anything!
-- 📫 How to reach me: [...](https://www.linkedin.com/in/umucbaris/)
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/umucbaris/)
 - ⚡ Fun fact: I'm a Civil Engineer 😄
